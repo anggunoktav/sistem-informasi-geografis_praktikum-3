@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Depok, Jawa Barat</name>
+    <NetworkLink>
+      <name>PRAKTIKUM 3</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1wsRnlsC_88g7ya8QVZMuC3Fro_JW1-M&lid=54nVb-kX6aE]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
